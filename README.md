@@ -143,7 +143,7 @@ This project demonstrates how both Machine Learning and Deep Learning techniques
 
 ## 📬 Contact
 
-For questions, feedback, or collaborations, feel free to reach out via [GitHub Issues](https://github.com/nameisritam) or email.
+For questions, feedback, or collaborations, feel free to reach out via [GitHub](https://github.com/nameisritam) or email.
 
 ---
 
