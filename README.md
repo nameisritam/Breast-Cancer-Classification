@@ -4,14 +4,6 @@ This repository presents a comprehensive approach to **Breast Cancer Classificat
 
 ---
 
-## 📂 Repository Structure
-├── data.csv
-├── Breast Cancer Classification Using ML.ipynb
-├── Breast Cancer Classification with NN.ipynb
-├── README.md
-
----
-
 ## 📌 Objective
 
 The goal of this project is to build robust classification models that can accurately predict whether a tumor is benign or malignant using:
